@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 14d5b5485819b5f43a833e8254afe3ac
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: esqueleto_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 867
+        width: 124
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8c0cc5237a5a7428250cc53d18ecd3
+      internalID: -914999567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 875
+        width: 39
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f047d341e8cb9445878c86a35c8623b
+      internalID: -1887498675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_3
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 885
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eb4d4ff2bb1bf4a811f8eec32c1590
+      internalID: 1687654001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_5
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 607
+        width: 284
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90535a99b6110f74288ed05217710eea
+      internalID: -2138821691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_6
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 884
+        width: 44
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4bee7e7292b1c44aa308414e402380
+      internalID: 866056085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 544
+        width: 284
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf41ff6094c253468ea220ec3e671ea
+      internalID: -389921962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 563
+        width: 224
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5307625e4dac845ab46e0ad51543c5
+      internalID: 781994724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_9
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 409
+        width: 111
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcbb2de391edc642823405ce9759243
+      internalID: 10021440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 381
+        width: 225
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8f92e9116433c45a259d437633c88c
+      internalID: 1279938940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 345
+        width: 110
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ed455b91b602e459d6a188b19b22c5
+      internalID: -1756477938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 204
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35617ada9ed39047a588b010e5676c9
+      internalID: 132596192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_37
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 177
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29f0073eae87cc4f99d6b556f338999
+      internalID: 680288813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 24
+        width: 96
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c4c7312b6013d41b0622e88b9c965f
+      internalID: -1908247372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_41
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 119
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0acbb2b8f2e5d48b234bb5db8976a0
+      internalID: 543213861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 30
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854076629795b1d4989f5b403790bcd4
+      internalID: -1680298937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_43
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 19
+        width: 96
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2ee680735e34d4d93e9223b13a6f44
+      internalID: 549268324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_44
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 94
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89e22d63308c514981e831e8267d802
+      internalID: -1056585779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_45
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 33
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497adfb1f5d38474bbc4681fd399fbda
+      internalID: 835383017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 33
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b99dafdfb0e43647aed843f809c7abe
+      internalID: 826148665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: esqueleto_47
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 27
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733d145d1b3564045a0814359c0c5b24
+      internalID: 1811267938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      esqueleto_0: -914999567
+      esqueleto_1: 481214146
+      esqueleto_10: -1709246785
+      esqueleto_11: 2114521001
+      esqueleto_12: -1108135411
+      esqueleto_13: -1695498951
+      esqueleto_14: 1279938940
+      esqueleto_15: -1459342476
+      esqueleto_16: -1756477938
+      esqueleto_17: -123432204
+      esqueleto_18: -712436706
+      esqueleto_19: 1938980037
+      esqueleto_2: -1887498675
+      esqueleto_20: 27261802
+      esqueleto_21: -706163376
+      esqueleto_22: 197564397
+      esqueleto_23: -234929327
+      esqueleto_24: 302605900
+      esqueleto_25: 1619536597
+      esqueleto_26: -553268461
+      esqueleto_27: -992013605
+      esqueleto_28: -1939287357
+      esqueleto_29: 71495403
+      esqueleto_3: 1687654001
+      esqueleto_30: -1833590260
+      esqueleto_31: -1834213605
+      esqueleto_32: 858488565
+      esqueleto_33: -346413560
+      esqueleto_34: 1364769957
+      esqueleto_35: 1735253107
+      esqueleto_36: 132596192
+      esqueleto_37: 680288813
+      esqueleto_38: -510891820
+      esqueleto_39: 1992647609
+      esqueleto_4: -2137208564
+      esqueleto_40: -1908247372
+      esqueleto_41: 543213861
+      esqueleto_42: -1680298937
+      esqueleto_43: 549268324
+      esqueleto_44: -1056585779
+      esqueleto_45: 835383017
+      esqueleto_46: 826148665
+      esqueleto_47: 1811267938
+      esqueleto_5: -2138821691
+      esqueleto_6: 866056085
+      esqueleto_7: -389921962
+      esqueleto_8: 781994724
+      esqueleto_9: 10021440
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
